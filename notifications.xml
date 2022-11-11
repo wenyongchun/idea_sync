@@ -4,5 +4,6 @@
     <notification groupId="Common Version Control Messages" displayType="NONE" shouldLog="false" />
     <notification groupId="gittoolbox.fetch.info" displayType="NONE" shouldLog="false" />
     <notification groupId="JRebel non-sticky" displayType="NONE" shouldLog="false" />
+    <notification groupId="Key Promoter X" shouldLog="false" />
   </component>
 </application>
