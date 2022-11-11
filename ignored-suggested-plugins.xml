@@ -8,6 +8,8 @@
         <option value="com.intellij.spring.cloud" />
         <option value="com.intellij.reactivestreams" />
         <option value="com.intellij.spring.data" />
+        <option value="com.intellij.spring.security" />
+        <option value="com.intellij.grpc" />
       </list>
     </option>
   </component>

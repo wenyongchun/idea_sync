@@ -1,6 +1,8 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="gittoolbox.fetch.info" displayType="NONE" />
-    <notification groupId="JRebel non-sticky" displayType="NONE" />
+    <notification groupId="Branch Context group" displayType="NONE" shouldLog="false" />
+    <notification groupId="Common Version Control Messages" displayType="NONE" shouldLog="false" />
+    <notification groupId="gittoolbox.fetch.info" displayType="NONE" shouldLog="false" />
+    <notification groupId="JRebel non-sticky" displayType="NONE" shouldLog="false" />
   </component>
 </application>
