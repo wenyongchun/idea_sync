@@ -1,0 +1,14 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.intellij.spring.messaging" />
+        <option value="com.intellij.beanValidation" />
+        <option value="com.intellij.spring.websocket" />
+        <option value="com.intellij.spring.cloud" />
+        <option value="com.intellij.reactivestreams" />
+        <option value="com.intellij.spring.data" />
+      </list>
+    </option>
+  </component>
+</application>

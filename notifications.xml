@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="gittoolbox.fetch.info" displayType="NONE" />
+    <notification groupId="JRebel non-sticky" displayType="NONE" />
+  </component>
+</application>
