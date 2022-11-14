@@ -62,12 +62,12 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*Preparing.*" />
+                      <option name="grepExpression" value=".*==&gt;.*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-2180985" />
+                              <option name="color" value="-3674676" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -79,9 +79,22 @@
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*&lt;==.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-3674676" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
                   </list>
                 </option>
-                <option name="name" value="@Theme Name@" />
+                <option name="name" value="mybatis" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
                 <option name="grepExpressionItems">
@@ -165,7 +178,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="style">
                         <GrepStyle>
