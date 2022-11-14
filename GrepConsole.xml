@@ -36,7 +36,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="" />
+                <option name="expression" value="==&gt;" />
               </GrepModel>
             </list>
           </option>
@@ -45,7 +45,16 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="==&gt;" />
+                <option name="expression" value=".*Mapper.*" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
               </GrepModel>
             </list>
           </option>
@@ -62,7 +71,7 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*==&gt;.*" />
+                      <option name="grepExpression" value=".*Mapper..*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -73,19 +82,7 @@
                           </option>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                        </GrepStyle>
-                      </option>
-                    </GrepExpressionItem>
-                    <GrepExpressionItem>
-                      <option name="grepExpression" value=".*&lt;==.*" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="color" value="-3674676" />
+                              <option name="color" value="-8355712" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -158,7 +155,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*INFO.*" />
                       <option name="style">
                         <GrepStyle>
@@ -170,6 +166,7 @@
                           </option>
                           <option name="foregroundColor">
                             <GrepColor>
+                              <option name="color" value="-12799119" />
                               <option name="colorKey" value="GrepConsole.info.foreground" />
                               <option name="enabled" value="true" />
                             </GrepColor>
