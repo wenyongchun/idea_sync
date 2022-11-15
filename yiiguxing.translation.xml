@@ -1,0 +1,35 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="256" />
+    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogX" value="815" />
+    <option name="newTranslationDialogY" value="455" />
+    <histories>
+      <item value="deprecated" />
+      <item value="depre" />
+      <item value="detected" />
+      <item value="de" />
+      <item value="过期" />
+      <item value="得到" />
+      <item value="guo'qi" />
+      <item value="g" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="9" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1668474603533" />
+  </component>
+  <component name="Settings">
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="002c842978dbcaf0" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
