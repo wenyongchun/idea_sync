@@ -90,6 +90,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*&lt;==.*" />
                       <option name="style">
                         <GrepStyle>
@@ -257,6 +258,7 @@
               </GrepExpressionGroup>
             </list>
           </option>
+          <option name="maxLengthToMatch" value="240" />
           <option name="name" value="default" />
         </Profile>
       </list>
