@@ -1,11 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="574" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="方式" />
+      <item value="f's" />
       <item value="中国" />
+      <item value="g" />
+      <item value="z" />
+      <item value="ff" />
+      <item value="dd" />
+      <item value="发" />
+      <item value="f" />
       <item value="ha" />
       <item value="attendance member id" />
       <item value="deprecated" />
@@ -15,17 +23,16 @@
       <item value="过期" />
       <item value="得到" />
       <item value="guo'qi" />
-      <item value="g" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="36" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668474603533" />
+    <option name="lastTrimTime" value="1669015160128" />
   </component>
   <component name="Settings">
     <option name="youdaoTranslateSettings">
