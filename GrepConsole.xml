@@ -111,7 +111,7 @@
                     </GrepExpressionItem>
                   </list>
                 </option>
-                <option name="name" value="mybatis" />
+                <option name="name" value="my" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
                 <option name="grepExpressionItems">
