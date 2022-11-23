@@ -1,9 +1,65 @@
 <application>
   <component name="NotificationConfiguration" systemNotifications="false">
-    <notification groupId="Branch Context group" displayType="NONE" shouldLog="false" />
-    <notification groupId="Common Version Control Messages" displayType="NONE" shouldLog="false" />
-    <notification groupId="gittoolbox.fetch.info" displayType="NONE" shouldLog="false" />
-    <notification groupId="JRebel non-sticky" displayType="NONE" shouldLog="false" />
-    <notification groupId="Key Promoter X" shouldLog="false" />
+    <notification groupId="Accepted language levels" />
+    <notification groupId="Automatic indent detection" />
+    <notification groupId="Breakpoint hit" />
+    <notification groupId="Build Script Found" />
+    <notification groupId="Build sync orphan modules" />
+    <notification groupId="Built-in Server" />
+    <notification groupId="Cache Recovery" />
+    <notification groupId="Common Version Control Messages" />
+    <notification groupId="Compiler" />
+    <notification groupId="Database execution log" />
+    <notification groupId="Database refactoring log" />
+    <notification groupId="Database view log" />
+    <notification groupId="Debugger messages" />
+    <notification groupId="Dependencies" />
+    <notification groupId="Download Shared Index Log" />
+    <notification groupId="Error Report" />
+    <notification groupId="External Executable Critical Failures" />
+    <notification groupId="External System Auto-Link Notification Group" />
+    <notification groupId="File Watcher Messages" />
+    <notification groupId="Find in Path" />
+    <notification groupId="gittoolbox.behind.tracker" />
+    <notification groupId="gittoolbox.blame" />
+    <notification groupId="gittoolbox.branch.cleanup" />
+    <notification groupId="gittoolbox.external.link" />
+    <notification groupId="gittoolbox.fetch.info" />
+    <notification groupId="gittoolbox.general" />
+    <notification groupId="Grep Console error" />
+    <notification groupId="Heap Dump Analysis" />
+    <notification groupId="HotSwap" />
+    <notification groupId="IDE and Plugin Updates" />
+    <notification groupId="IDE Update Results" />
+    <notification groupId="Incorrect Formatting" />
+    <notification groupId="Inspection Results" />
+    <notification groupId="JDK Update Error" />
+    <notification groupId="jps configuration error" />
+    <notification groupId="JRebel sticky" />
+    <notification groupId="JSON Schema" />
+    <notification groupId="KeymapMissing" />
+    <notification groupId="Maven Helper" />
+    <notification groupId="Password Safe" />
+    <notification groupId="PerformanceWatcher" />
+    <notification groupId="Plugins Suggestion" />
+    <notification groupId="ProfilerBalloon" />
+    <notification groupId="ProfilerNotification" />
+    <notification groupId="Project Startup Tasks Messages" />
+    <notification groupId="Rainbow Brackets Notification Group" />
+    <notification groupId="Remote Transfer" />
+    <notification groupId="Services Tool Window" />
+    <notification groupId="Shared Indexing Log" />
+    <notification groupId="Silent Execution" />
+    <notification groupId="Spring Boot Application Endpoints" />
+    <notification groupId="Spring Boot Application Request Mappings" />
+    <notification groupId="Spring Configuration Check" />
+    <notification groupId="Structural Search" />
+    <notification groupId="System Health" />
+    <notification groupId="System shortcuts conflicts" />
+    <notification groupId="Test Runner" />
+    <notification groupId="Translation Plugin Updates" />
+    <notification groupId="Vcs Important Messages" />
+    <notification groupId="Vcs Messages" />
+    <notification groupId="Vcs Silent Notifications" />
   </component>
 </application>
