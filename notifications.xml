@@ -1,5 +1,5 @@
 <application>
-  <component name="NotificationConfiguration">
+  <component name="NotificationConfiguration" systemNotifications="false">
     <notification groupId="Branch Context group" displayType="NONE" shouldLog="false" />
     <notification groupId="Common Version Control Messages" displayType="NONE" shouldLog="false" />
     <notification groupId="gittoolbox.fetch.info" displayType="NONE" shouldLog="false" />
