@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="库" />
+      <item value="k" />
       <item value="中国" />
       <item value="z" />
       <item value="zhongg" />
@@ -31,13 +33,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="69" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1669015160128" />
+    <option name="lastTrimTime" value="1669602552815" />
   </component>
   <component name="Settings">
     <option name="youdaoTranslateSettings">
