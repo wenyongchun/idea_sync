@@ -283,6 +283,11 @@
                     <option name="javaType" value="java.util.Date" />
                     <option name="matchType" value="ORDINARY" />
                   </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="jsonb" />
+                    <option name="javaType" value="java.lang.String" />
+                    <option name="matchType" value="ORDINARY" />
+                  </TypeMapper>
                 </list>
               </option>
               <option name="name" value="Default" />
