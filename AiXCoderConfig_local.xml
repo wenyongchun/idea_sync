@@ -1,5 +1,6 @@
 <application>
   <component name="ConfigState">
+    <option name="tips_position" value="0" />
     <option name="longNum" value="自动" />
   </component>
 </application>
