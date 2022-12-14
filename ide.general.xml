@@ -12,6 +12,7 @@
         <entry key="Encoding" value="false" />
         <entry key="LineSeparator" value="false" />
         <entry key="ReadOnlyAttribute" value="false" />
+        <entry key="TranslationWidget" value="false" />
         <entry key="TranslatorWidget" value="false" />
         <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
         <entry key="git" value="false" />
